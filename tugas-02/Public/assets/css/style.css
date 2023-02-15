@@ -19,16 +19,15 @@ hr {
 
 .informasi {
     width: 80%;
-    margin: 0 auto;
+    margin:auto;
     text-align: left;
-    font-family: Arial, sans-serif;
+    font-family: sans-serif;
 }
 
 .biodata {
     margin-top: auto;
     margin-bottom: auto;
 }
-
 
 
 th {
