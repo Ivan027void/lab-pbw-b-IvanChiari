@@ -1,0 +1,83 @@
+body {
+    background-color: mediumturquoise;
+    font-family: Verdana;
+}
+
+h1 {
+    color: darkorchid;
+    text-align: center;
+    font-size: 30px;
+}
+
+h2 {
+    text-align: center;
+}
+
+hr {
+    border: 2px solid black;
+}
+
+.informasi {
+    width: 80%;
+    margin: 0 auto;
+    text-align: left;
+    font-family: Arial, sans-serif;
+}
+
+.biodata {
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+
+
+th {
+    background-color: whitesmoke;
+    text-align: center;
+}
+
+td {
+    background-color: greenyellow;
+    font-size: 15px;
+}
+
+.photo {
+    width: 120px;
+    height: 170px;
+    overflow: hidden;
+    margin-right: 100px;
+    margin-top: 10px;
+    float: left;
+    border: black 5px solid;
+}
+
+.photo img {
+    width: 100%;
+
+}
+
+table {
+    border: black;
+    margin: auto;
+    border: 1px;
+    padding: 0px;
+}
+
+header {
+    padding: 10px;
+    text-align: center;
+    background: #1abc9c;
+    color: white;
+    font-size: 30px;
+}
+
+
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background: #1abc9c;
+    color: #fff;
+    text-align: center;
+}
