@@ -20,15 +20,17 @@ hr {
 .informasi {
     width: 80%;
     margin:auto;
-    text-align: left;
+    text-align: center;
     font-family: sans-serif;
 }
 
 .biodata {
+    display: inline-block; 
     margin-top: auto;
     margin-bottom: auto;
+    vertical-align: middle;
+    text-align: left; 
 }
-
 
 th {
     background-color: whitesmoke;
@@ -44,9 +46,10 @@ td {
     width: 120px;
     height: 170px;
     overflow: hidden;
-    margin-right: 100px;
+    margin-right: 20px; 
     margin-top: 10px;
-    float: left;
+    display: inline-block; 
+    vertical-align: middle; 
     border: black 5px solid;
 }
 
@@ -55,11 +58,13 @@ td {
 
 }
 
+
 table {
     border: black;
     margin: auto;
     border: 1px;
     padding: 0px;
+    font-size: 10px;
 }
 
 header {
