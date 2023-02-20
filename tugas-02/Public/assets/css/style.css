@@ -73,7 +73,7 @@ td {
 header {
     padding: 10px;
     text-align: center;
-    background: #1abc9c;
+    background: navy;
     color: white;
     font-size: 30px;
 }
@@ -84,7 +84,7 @@ footer {
     left: 0;
     bottom: 0;
     width: 100%;
-    background: #1abc9c;
+    background: navy;
     color: #fff;
     text-align: center;
 }  
