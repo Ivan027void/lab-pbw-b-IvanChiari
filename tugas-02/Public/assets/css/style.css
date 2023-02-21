@@ -55,7 +55,7 @@ hr {
 table {
     border: black;
     margin: auto;
-    border: 1px;
+    border: 2px;
     padding: 2px;
     width: 50%;
 }
@@ -67,7 +67,7 @@ th {
 
 td {
     background-color: greenyellow;
-    font-size: 15px;
+    font-size: 14px;
 }
 
 header {
