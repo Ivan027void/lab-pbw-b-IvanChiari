@@ -20,7 +20,7 @@ hr {
 .container {
     display: flex;
     justify-content: space-between;
-  }
+}
 
 .informasi {
     font-family: sans-serif;
@@ -49,7 +49,7 @@ hr {
     margin-right: 20px;
     vertical-align: middle;
     border: black 5px solid;
-    float:left;
+    float: left;
 }
 
 table {
@@ -70,6 +70,10 @@ td {
     font-size: 14px;
 }
 
+.date-time{
+    text-align: center;
+}
+
 header {
     padding: 10px;
     text-align: center;
@@ -87,4 +91,4 @@ footer {
     background: navy;
     color: #fff;
     text-align: center;
-}  
+}
