@@ -42,6 +42,17 @@ hr {
     margin-bottom: 5px;
 }
 
+.content table {
+   
+    width: 100%;
+    font-size: 1.2rem;
+}
+
+.content td, th {
+    padding: 10px;
+    background-color: mediumturquoise;
+}
+
 .informasi img {
     width: 150px;
     height: 250px;
@@ -49,7 +60,7 @@ hr {
     margin-right: 20px;
     vertical-align: middle;
     border: black 5px solid;
-    float: left;
+    float: right;
 }
 
 table {
@@ -70,7 +81,7 @@ td {
     font-size: 14px;
 }
 
-.date-time{
+.date-time {
     text-align: center;
 }
 
